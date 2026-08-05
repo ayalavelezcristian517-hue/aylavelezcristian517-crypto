@@ -1,3 +1,6 @@
-CRISTIAN ESTIBEN AYALA VELEZ 
-ANALISIS Y DESARROLLO DE SOFTWARE 
-CENTRO DE CONSTRUCCION Y PROCESOS INDUSTRIALES 
+# Cristian estiben Ayala Vélez 
+## Análisis y desarrollo de software
+**Centro de construcción y procesos industriales**
+##informacion
+- aprendiz Sena
+  - repositorio del proyecto Crypto
