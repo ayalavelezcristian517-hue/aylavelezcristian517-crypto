@@ -5,7 +5,7 @@
 ## Análisis y desarrollo de software
 **Centro de construcción y procesos industriales**
 ---
-| ID      |> SENA - Regional Caldas 
+> SENA - Regional Caldas 
 | ID  | THEME       | DESCRIPTION 
 |---  |---          |---          
 |01.  | Emmet       | workflow - markup & styling 
