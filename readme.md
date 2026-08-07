@@ -1,5 +1,5 @@
+<img width="1254" height="1254" alt="cristian-caricature" src="https://github.com/user-attachments/assets/ed04d3a8-a601-4691-bfe5-46e9c45b6496" />
 
-<img src="cristian-caricature.png" alt="Mi imagen" width="250">
 
 
 
