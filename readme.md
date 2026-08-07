@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<img src="cristian-caricature.png" alt="Mi imagen" width="250">
+
 
 
 # Cristian estiben Ayala 
